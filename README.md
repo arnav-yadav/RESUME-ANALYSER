@@ -1,6 +1,8 @@
 Resume Analyzer
 Effortlessly Analyze and Sort Resumes
 
+[Website Link](https://arnav-yadav.github.io/RESUME-ANALYSER/)
+
 Overview:
 Resume Analyzer is tool to streamline the hiring process by analyzing resumes and matching them with job descriptions.
 This project uses the Affinda Resume Parsing API to extract key information from resumes and compares them to job requirements to generate a matching score, highlight relevant skills, and provide actionable improvement suggestions.
