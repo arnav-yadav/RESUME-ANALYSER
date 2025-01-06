@@ -28,10 +28,10 @@ document.getElementById("btn").addEventListener("click", async function () {
         const response = await fetch("https://api.affinda.com/v1/resumes", {
             method: "POST",
             headers: {
-                "Authorization": "Bearer aff_676187aac6448bcceaf28c6caca720d0ad30bc8e", // Replace with a valid API key
+                "Authorization": "Bearer aff_676187aac6448bcceaf28c6caca720d0ad30bc8e", 
             },
             body: formData,
-        });
+        });5
 
         if (!response.ok) throw new Error("Failed to analyze the resume.");
 
